@@ -1,6 +1,6 @@
  Hi there 👋
  
-I'm Adam Wojasiński, an Automation Control and Robotics student @UST in Cracow.
+I'm Adam Wojasiński, an Automation Control and Robotics student @AGH UST in Cracow.
 
 🔭 I’m currently working on Two Wheeled Inverted Pendulum
 
